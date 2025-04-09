@@ -1,20 +1,20 @@
 # 🚀 React Native Starter Template
 
-A production-ready React Native boilerplate with TypeScript, GraphQL, Redux Toolkit, and CI/CD setup. Designed to help teams kick off new mobile app projects with clear structure and best practices.
+A production-ready React Native boilerplate with JavaScript, GraphQL, Redux Toolkit, and CI/CD setup. Designed to help teams kick off new mobile app projects with clear structure and best practices.
 
 ---
 
 ## 🧱 Features
 
 - ⚛️ **React Native** (Latest)
-- 🛠️ **TypeScript**
+- 🛠️ **JavaScript**
 - 📦 **Redux Toolkit** for state management
 - 🔮 **Apollo Client** for GraphQL
 - 🎯 **RTK Query** for local state & cache
 - 💅 **Styled-Components**
 - 🌐 **React Navigation**
 - 🔐 **Keychain & NetInfo Integration**
-- 📁 Structured Component-Based Architecture
+- 📁 **Structured Component-Based Architecture**
 - ✅ **ESLint**, **Prettier**
 - 🤖 **GitHub Actions** CI/CD (optional)
 - 🌎 `.env` environment config support
@@ -107,7 +107,7 @@ docs: update readme and contribution guide
 ## 🛠 Technologies Used
 
 - React Native
-- TypeScript
+- JavaScript
 - Redux Toolkit
 - RTK Query
 - GraphQL + Apollo Client
