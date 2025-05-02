@@ -56,20 +56,26 @@ git clone https://github.com/your-org/your-repo-name.git
 cd your-repo-name
 ```
 
-### 2. Install dependencies
+### 2. Rename project
+
+```bash
+npx react-native-rename@latest "ProjectName" -b com.yourcomanyname.yourappname
+```
+
+### 3. Install dependencies
 
 ```bash
 yarn install
 ```
 
-### 3. Setup `.env`
+### 4. Setup `.env`
 
 ```env
 API_URL=https://your-api-url.com
 ENV=development
 ```
 
-### 4. Run the app
+### 5. Run the app
 
 ```bash
 yarn android
